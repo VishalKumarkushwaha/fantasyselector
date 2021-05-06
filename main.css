@@ -1,5 +1,5 @@
 #clockbox {
-    color: white; font-size: 20px; background-color: darkgreen; display: inline-block; border: 3px solid darkgreen ; border-radius: 3px; margin:0px; padding: 0px; font-weight: bold;
+    color: white; font-size: 20px; background-color: Black; display: inline-block; border: 3px solid darkgreen ; border-radius: 3px; margin:0px; padding: 0px; font-weight: bold;
 }
 @font-face {
     font-family: 'Kruti-Dev-010';
@@ -12,7 +12,7 @@
 }
 
 body {
-    background: url("../jaldi-dekho.com/Snow_falling1.gif");
+    background: url("K0QDUgDQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRDuwn8B3AcqnGOGfskAAAAASUVORK5CYII= ");
     background-size: cover;
 }
 @-webkit-keyframes AnimationName {
